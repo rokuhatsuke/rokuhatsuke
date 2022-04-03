@@ -1,0 +1,4 @@
+- 👋 Hi, I’m -> @rokuhatuske
+- 👀 I’m interested in -> os kernel
+- 🌱 I’m currently learning -> software design 
+- 📫 How to reach me -> discord @kararenai#4485
