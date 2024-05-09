@@ -1,4 +1,7 @@
 - 👋 Hi, I’m -> @rokuhatsuke
 - 👀 I’m interested in -> os kernel
 - 🌱 I’m currently learning -> software design 
-- 📫 How to reach me -> discord @kararenai#4485
+
+Sakewa is still alive！
+
+20238132023
